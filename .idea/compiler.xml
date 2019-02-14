@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="test-consumer-port-8092" />
+        <module name="test-eureka-port-8090" />
+        <module name="test-provider-port-8091" />
+        <module name="test-provider-port-8093" />
+        <module name="test-zuul-port-8089" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="test-consumer-port-8092" target="1.8" />
+      <module name="test-eureka-port-8090" target="1.8" />
+      <module name="test-provider-port-8091" target="1.8" />
+      <module name="test-provider-port-8093" target="1.8" />
+      <module name="test-zuul-port-8089" target="1.8" />
+      <module name="testproject" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
