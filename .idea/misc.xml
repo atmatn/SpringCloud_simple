@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/testproject/pom.xml" />
+        <option value="$PROJECT_DIR$/testproject/test-config-port-8093/pom.xml" />
       </list>
     </option>
   </component>

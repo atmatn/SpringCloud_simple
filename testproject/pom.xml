@@ -9,6 +9,7 @@
         <module>test-consumer-port-8092</module>
         <module>test-zuul-port-8089</module>
         <module>test-provider-port-8094</module>
+        <module>test-config-port-8093</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

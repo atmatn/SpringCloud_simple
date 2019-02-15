@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/testproject/test-config-port-8093/test-config-port-8093.iml" filepath="$PROJECT_DIR$/testproject/test-config-port-8093/test-config-port-8093.iml" />
       <module fileurl="file://$PROJECT_DIR$/testproject/test-consumer-port-8092/test-consumer-port-8092.iml" filepath="$PROJECT_DIR$/testproject/test-consumer-port-8092/test-consumer-port-8092.iml" />
       <module fileurl="file://$PROJECT_DIR$/testproject/test-eureka-port-8090/test-eureka-port-8090.iml" filepath="$PROJECT_DIR$/testproject/test-eureka-port-8090/test-eureka-port-8090.iml" />
       <module fileurl="file://$PROJECT_DIR$/testproject/test-provider-port-8091/test-provider-port-8091.iml" filepath="$PROJECT_DIR$/testproject/test-provider-port-8091/test-provider-port-8091.iml" />

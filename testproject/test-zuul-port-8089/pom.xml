@@ -10,6 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>test-zuul-port-8089</artifactId>
+    <packaging>pom</packaging>
     <dependencies>
         <!-- springCloud注测中心服务 -->
         <dependency>
