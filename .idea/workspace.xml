@@ -19,12 +19,7 @@
       <change beforePath="$PROJECT_DIR$/../3rd-lib/outlog.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../3rd-lib/text-tools-src.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../3rd-lib/text-tools.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/Zuul8089Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/Zuul8089Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/classes/com/youdao/crop/Zuul8089Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/classes/com/youdao/crop/Zuul8089Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/test-zuul-port-8089-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/test-zuul-port-8089-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/test-zuul-port-8089-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/test-zuul-port-8089-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/controller/TestFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/controller/TestFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../application.properties.template" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../bin/checkOOM.sh" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../bin/checkSpace.sh" beforeDir="false" />
@@ -1183,14 +1178,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="362" />
+          <entry key="java" value="367" />
           <entry key="properties" value="65" />
           <entry key="xml" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="362" />
+          <entry key="JAVA" value="367" />
           <entry key="Properties" value="65" />
           <entry key="XML" value="27" />
         </counts>
@@ -1204,11 +1199,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/controller/TestFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
+            <state relative-caret-position="360">
+              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#286#287#0" expanded="true" />
@@ -1220,7 +1215,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/Zuul8089Application.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -1277,8 +1272,8 @@
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8094/pom.xml" />
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8094/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8094/src/main/java/com/youdao/crop/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/controller/TestFilter.java" />
         <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/Zuul8089Application.java" />
+        <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/controller/TestFilter.java" />
       </list>
     </option>
   </component>
@@ -1371,7 +1366,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550204745514" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550205733220" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/testproject/test-provider-port-8093/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -1550,15 +1545,16 @@
       <workItem from="1550116757167" duration="17634000" />
       <workItem from="1550140506769" duration="813000" />
       <workItem from="1550198004725" duration="2207000" />
-      <workItem from="1550201452830" duration="2433000" />
+      <workItem from="1550201452830" duration="3321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23087000" />
+    <option name="totallyTimeSpent" value="23975000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -1566,7 +1562,7 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.2591687" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.18520783" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32996634" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -1577,7 +1573,7 @@
       <window_info anchor="bottom" id="Spring" order="6" weight="0.32996634" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.43546578" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" visible="true" weight="0.325477" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -1736,20 +1732,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8093/src/main/java/com/youdao/crop/Provider8093Appliction.java" />
     <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8093/src/main/java/com/youdao/crop/controller/TestController.java" />
-    <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/controller/TestFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/Zuul8089Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1759,6 +1741,20 @@
             <element signature="e#324#325#0" expanded="true" />
             <element signature="e#393#394#0" expanded="true" />
             <element signature="e#513#514#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/controller/TestFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -31,14 +31,14 @@ public class TestFilter extends ZuulFilter {
     public Object run() throws ZuulException {
         RequestContext ctx = RequestContext.getCurrentContext();
         HttpServletRequest request = ctx.getRequest();
-        System.out.println(String.format("%s demoFilter request to %s", request.getMethod(), request.getRequestURL().toString()));
+        System.out.println(String.format("%s TestFilter request to %s", request.getMethod(), request.getRequestURL().toString()));
         String username = request.getParameter("username");// 获取请求的参数
-        if(!StringUtils.isEmpty(username)&&username.equals("gaocheng")){//通过
+        if (!StringUtils.isEmpty(username) && username.equals("gaocheng")) {//通过
             ctx.setSendZuulResponse(true);// 对该请求进行路由
             ctx.setResponseStatusCode(200);
             ctx.set("isSuccess", true);// 设值，让下一个Filter看到上一个Filter的状态
             return null;
-        }else{
+        } else {
             ctx.setSendZuulResponse(false);// 过滤该请求，不对其进行路由
             ctx.setResponseStatusCode(401);// 返回错误码
             ctx.setResponseBody("{\"result\":\"Sorry the username is not correct!\"}");// 返回错误内容
