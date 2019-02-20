@@ -19,7 +19,30 @@
       <change beforePath="$PROJECT_DIR$/../3rd-lib/outlog.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../3rd-lib/text-tools-src.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../3rd-lib/text-tools.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-config-port-8093/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-config-port-8093/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-config-port-8093/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-config-port-8093/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-config-port-8093/target/test-config-port-8093-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-config-port-8093/target/test-config-port-8093-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-config-port-8093/target/test-config-port-8093-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-config-port-8093/target/test-config-port-8093-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-consumer-port-8092/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-consumer-port-8092/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-consumer-port-8092/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-consumer-port-8092/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-consumer-port-8092/target/test-consumer-port-8092-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-consumer-port-8092/target/test-consumer-port-8092-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-consumer-port-8092/target/test-consumer-port-8092-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-consumer-port-8092/target/test-consumer-port-8092-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-eureka-port-8090/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-eureka-port-8090/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-eureka-port-8090/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-eureka-port-8090/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-eureka-port-8090/target/test-eureka-port-8090-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-eureka-port-8090/target/test-eureka-port-8090-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-eureka-port-8090/target/test-eureka-port-8090-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-eureka-port-8090/target/test-eureka-port-8090-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/Provider8091Appliction.java" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/Provider8091Appliction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8091/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8091/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8091/target/classes/com/youdao/crop/Provider8091Appliction.class" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8091/target/classes/com/youdao/crop/Provider8091Appliction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8091/target/test-provider-port-8091-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8091/target/test-provider-port-8091-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8091/target/test-provider-port-8091-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8091/target/test-provider-port-8091-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8094/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8094/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8094/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8094/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8094/target/test-provider-port-8094-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8094/target/test-provider-port-8094-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8094/target/test-provider-port-8094-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8094/target/test-provider-port-8094-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/test-zuul-port-8089-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/test-zuul-port-8089-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/test-zuul-port-8089-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/test-zuul-port-8089-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../application.properties.template" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../bin/checkOOM.sh" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../bin/checkSpace.sh" beforeDir="false" />
@@ -1154,7 +1177,7 @@
     <session id="802283491">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.28" value="1" />
@@ -1166,27 +1189,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
+          <entry key="class" value="2" />
           <entry key="iml" value="8" />
-          <entry key="java" value="25" />
-          <entry key="properties" value="24" />
+          <entry key="java" value="34" />
+          <entry key="properties" value="33" />
           <entry key="xml" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
+          <entry key="CLASS" value="2" />
           <entry key="IDEA_MODULE" value="8" />
-          <entry key="JAVA" value="25" />
-          <entry key="Properties" value="24" />
+          <entry key="JAVA" value="34" />
+          <entry key="Properties" value="33" />
           <entry key="XML" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="iml" value="6" />
-          <entry key="java" value="392" />
-          <entry key="properties" value="193" />
+          <entry key="java" value="459" />
+          <entry key="properties" value="276" />
           <entry key="txt" value="3" />
           <entry key="xml" value="95" />
         </counts>
@@ -1194,9 +1217,9 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="6" />
-          <entry key="JAVA" value="392" />
+          <entry key="JAVA" value="459" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Properties" value="193" />
+          <entry key="Properties" value="276" />
           <entry key="XML" value="95" />
         </counts>
       </usages-collector>
@@ -1210,19 +1233,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/Zuul8089Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
-              <folding>
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
@@ -1232,67 +1242,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8094/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/Provider8091Appliction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#411#412#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml">
+        <entry file="file://$PROJECT_DIR$/testproject/test-config-port-8093/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+            <state relative-caret-position="72">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8091/pom.xml">
+        <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/controller/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testproject/test-eureka-port-8090/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8094/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+            <state relative-caret-position="24">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1320,21 +1308,15 @@
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/MyAppliction.java" />
         <option value="$PROJECT_DIR$/testproject/test-consumer-port-8092/src/main/java/com/youdao/crop/Consumer8092Appliction.java" />
         <option value="$PROJECT_DIR$/testproject/test-consumer-port-8092/pom.xml" />
-        <option value="$PROJECT_DIR$/testproject/test-consumer-port-8092/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8093/src/main/java/com/youdao/crop/Provider8091Appliction.java" />
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8093/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/controller/TestController.java" />
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/controller/Test2Controller.java" />
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8093/src/main/java/com/youdao/crop/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/testproject/test-eureka-port-8090/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8091/pom.xml" />
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8093/pom.xml" />
-        <option value="$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/Provider8091Appliction.java" />
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8093/src/main/java/com/youdao/crop/Provider8093Appliction.java" />
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8094/src/main/java/crop/Provider8093Appliction.java" />
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8094/pom.xml" />
-        <option value="$PROJECT_DIR$/testproject/test-provider-port-8094/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/testproject/test-provider-port-8094/src/main/java/com/youdao/crop/controller/TestController.java" />
         <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/controller/TestFilter.java" />
         <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/test-config-port-8093/pom.xml" />
@@ -1344,11 +1326,17 @@
         <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/test-config-port-8093/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/testproject/pom.xml" />
         <option value="$PROJECT_DIR$/testproject/test-config-port-8093/pom.xml" />
-        <option value="$PROJECT_DIR$/testproject/test-config-port-8093/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/test-zuul-port-8089.iml" />
         <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/Zuul8089Application.java" />
         <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml" />
+        <option value="$PROJECT_DIR$/testproject/test-consumer-port-8092/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/testproject/test-eureka-port-8090/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/testproject/test-provider-port-8094/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/Provider8091Appliction.java" />
+        <option value="$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/testproject/test-config-port-8093/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -1394,13 +1382,43 @@
             <path>
               <item name="ACloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="testproject" type="462c0819:PsiDirectoryNode" />
-              <item name="test-eureka-port-8090" type="462c0819:PsiDirectoryNode" />
+              <item name="test-config-port-8093" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ACloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="testproject" type="462c0819:PsiDirectoryNode" />
-              <item name="test-eureka-port-8090" type="462c0819:PsiDirectoryNode" />
+              <item name="test-config-port-8093" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ACloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testproject" type="462c0819:PsiDirectoryNode" />
+              <item name="test-config-port-8093" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ACloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testproject" type="462c0819:PsiDirectoryNode" />
+              <item name="test-config-port-8093" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ACloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testproject" type="462c0819:PsiDirectoryNode" />
+              <item name="test-config-port-8093" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ACloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testproject" type="462c0819:PsiDirectoryNode" />
+              <item name="test-config-port-8093" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ACloudProject" type="b2602c69:ProjectViewProjectNode" />
@@ -1457,11 +1475,6 @@
             <path>
               <item name="ACloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="testproject" type="462c0819:PsiDirectoryNode" />
-              <item name="test-provider-port-8094" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ACloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testproject" type="462c0819:PsiDirectoryNode" />
               <item name="test-zuul-port-8089" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1483,7 +1496,25 @@
               <item name="test-zuul-port-8089" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ACloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testproject" type="462c0819:PsiDirectoryNode" />
+              <item name="test-zuul-port-8089" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="crop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ACloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testproject" type="462c0819:PsiDirectoryNode" />
+              <item name="test-zuul-port-8089" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ACloudProject" type="b2602c69:ProjectViewProjectNode" />
@@ -1504,7 +1535,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550643821724" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550663340523" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -1543,7 +1574,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Config8093Appliction">
+  <component name="RunManager" selected="Spring Boot.Provider8091Appliction">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -1683,16 +1714,15 @@
       <workItem from="1550201452830" duration="10713000" />
       <workItem from="1550545988903" duration="6726000" />
       <workItem from="1550626862414" duration="6512000" />
-      <workItem from="1550641321900" duration="1442000" />
+      <workItem from="1550641321900" duration="9336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46047000" />
+    <option name="totallyTimeSpent" value="53941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -1700,7 +1730,7 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.1900978" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.1900978" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32996634" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50061125" side_tool="true" weight="0.26599327" />
@@ -1711,7 +1741,7 @@
       <window_info anchor="bottom" id="Spring" order="6" weight="0.32996634" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.32996634" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49938875" visible="true" weight="0.34343433" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49938875" weight="0.40179574" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -1754,13 +1784,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8093/test-provider-port-8093.iml" />
-    <entry file="file://$PROJECT_DIR$/testproject/test-consumer-port-8092/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testproject/test-consumer-port-8092/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="649">
@@ -1796,38 +1819,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/test-config-port-8093/src/main/java/crop/controller/TestController.java" />
     <entry file="file://$PROJECT_DIR$/testproject/test-config-port-8093/src/main/resources/1.properties" />
-    <entry file="file://$PROJECT_DIR$/testproject/test-config-port-8093/src/main/java/com/youdao/crop/Config8093Appliction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testproject/test-config-port-8093/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testproject/test-config-port-8093/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testproject/test-eureka-port-8090/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
         </state>
       </provider>
     </entry>
@@ -1876,27 +1871,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8094/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/target/classes/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1921,20 +1895,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/Provider8091Appliction.java">
+    <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="240">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testproject/test-config-port-8093/src/main/java/com/youdao/crop/Config8093Appliction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testproject/test-consumer-port-8092/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testproject/test-eureka-port-8090/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA/src.zip!/java/lang/ref/ReferenceQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA/src.zip!/java/lang/ref/Finalizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="215" selection-start-line="215" selection-end-line="215" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="501" selection-start-line="501" selection-end-line="501" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA/src.zip!/java/lang/ref/Reference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="190" selection-start-line="190" selection-end-line="190" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA/jre/lib/rt.jar!/sun/nio/ch/ServerSocketChannelImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="361" selection-start-line="361" selection-end-line="361" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="747" selection-start-line="747" selection-end-line="747" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml">
+    <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8094/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        <state relative-caret-position="216">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/Provider8091Appliction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testproject/test-config-port-8093/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
