@@ -19,19 +19,7 @@
       <change beforePath="$PROJECT_DIR$/../3rd-lib/outlog.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../3rd-lib/text-tools-src.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../3rd-lib/text-tools.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-config-port-8093/target/test-config-port-8093-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-config-port-8093/target/test-config-port-8093-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-config-port-8093/target/test-config-port-8093-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-config-port-8093/target/test-config-port-8093-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-consumer-port-8092/target/test-consumer-port-8092-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-consumer-port-8092/target/test-consumer-port-8092-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-consumer-port-8092/target/test-consumer-port-8092-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-consumer-port-8092/target/test-consumer-port-8092-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-eureka-port-8090/target/test-eureka-port-8090-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-eureka-port-8090/target/test-eureka-port-8090-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-eureka-port-8090/target/test-eureka-port-8090-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-eureka-port-8090/target/test-eureka-port-8090-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8091/target/test-provider-port-8091-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8091/target/test-provider-port-8091-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8091/target/test-provider-port-8091-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8091/target/test-provider-port-8091-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8094/target/test-provider-port-8094-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8094/target/test-provider-port-8094-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-provider-port-8094/target/test-provider-port-8094-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-provider-port-8094/target/test-provider-port-8094-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/classes/com/youdao/crop/Zuul8089Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/testproject/test-zuul-port-8089/target/classes/com/youdao/crop/Zuul8089Application.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../application.properties.template" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../bin/checkOOM.sh" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../bin/checkSpace.sh" beforeDir="false" />
@@ -1261,7 +1249,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testproject/test-provider-port-8091/src/main/java/com/youdao/crop/Provider8091Appliction.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
@@ -1273,11 +1261,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+            <state relative-caret-position="240">
+              <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -1359,8 +1347,8 @@
         <option value="$PROJECT_DIR$/testproject/test-config-port-8093/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/test-zuul-port-8089.iml" />
         <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/java/com/youdao/crop/Zuul8089Application.java" />
-        <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml" />
         <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml" />
       </list>
     </option>
   </component>
@@ -1384,7 +1372,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="833" />
     <option name="width" value="854" />
     <option name="height" value="1017" />
@@ -1516,7 +1504,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550642490837" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550643821724" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -1695,15 +1683,16 @@
       <workItem from="1550201452830" duration="10713000" />
       <workItem from="1550545988903" duration="6726000" />
       <workItem from="1550626862414" duration="6512000" />
-      <workItem from="1550641321900" duration="690000" />
+      <workItem from="1550641321900" duration="1442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45295000" />
+    <option name="totallyTimeSpent" value="46047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -1711,7 +1700,7 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info id="Designer" order="5" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.1900978" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.1900978" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.32996634" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50061125" side_tool="true" weight="0.26599327" />
@@ -1722,13 +1711,13 @@
       <window_info anchor="bottom" id="Spring" order="6" weight="0.32996634" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.32996634" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49938875" visible="true" weight="0.30639732" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49938875" visible="true" weight="0.34343433" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info active="true" anchor="right" id="Maven Projects" order="1" visible="true" weight="0.20415647" />
+      <window_info anchor="right" id="Maven Projects" order="1" visible="true" weight="0.20415647" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
@@ -1908,13 +1897,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="74" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/target/classes/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1946,6 +1928,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
         </state>
       </provider>
     </entry>
