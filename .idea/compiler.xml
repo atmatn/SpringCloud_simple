@@ -11,6 +11,7 @@
         <module name="test-eureka-port-8090" />
         <module name="test-provider-port-8091" />
         <module name="test-provider-port-8094" />
+        <module name="test-zuul-port-8089" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

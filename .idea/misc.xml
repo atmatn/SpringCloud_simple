@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/testproject/pom.xml" />
         <option value="$PROJECT_DIR$/testproject/test-config-port-8093/pom.xml" />
+        <option value="$PROJECT_DIR$/testproject/test-zuul-port-8089/pom.xml" />
       </list>
     </option>
   </component>
